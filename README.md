@@ -28,8 +28,8 @@ Meus interesses pessoais:
 - <b>Ações Sociais:</b> Ter a oportunidade de impactar positivamente a vida das pessoas é algo que me faz bem. No momento participo de um projeto que arrecada brinquedos e doces para o dia das crianças e Natal.
 Gosto muito de conversar e trocar experiências, caso queira falar comigo pode me contatar pelo meu Linkedin ou por e-mail nos botões abaixo:
 <p align="center">
-  <a href="www.linkedin.com/in/marcelo-campos66">
-    <img href="www.linkedin.com/in/marcelo-campos66" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/marcelo-campos66/">
+    <img href="https://www.linkedin.com/in/marcelo-campos66/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:marcelo.campos.economista@gmail.com?subject=Olá!">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
