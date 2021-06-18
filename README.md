@@ -41,7 +41,7 @@ Gosto muito de conversar e trocar experiências, caso queira falar comigo pode m
 </p>
 <p>Esse é o meu resumo de utilização do Github:</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelocampos66&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelocampos66&show_icons=true&theme=tokyonight)
 
 <br/>
 
