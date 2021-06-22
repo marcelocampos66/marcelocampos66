@@ -1,5 +1,5 @@
 <H1 align="center">Olá! Tudo bem? Prazer, meu nome é Marcelo</H1>
-<p>Sou formado em economia pela Newton Paiva. Tenho experiência como economista, trabalhando como servidor público, onde atuei por 6 anos.</p>
+<p>Sou formado em Ciências Econômicas pela Newton Paiva. Tenho experiência como agente administrativo e economista, trabalhando como servidor público na Prefeitura de Belo Horizonte, onde atuei nas Secretarias de Assistencia Social e Planejamento Urbano.</p>
 <p>Após alguns anos atuando como economista, decidi realizar a transição de carreira e trabalhar como desenvolvedor de software. Atualmente estudo na Trybe, uma escola para pessoas que querem construir uma carreira de sucesso em tecnologia, com um programa que conta com mais de 1.500 horas de aulas presenciais e online
 e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.</p>
 <p>Você pode acessar meu site <a href="" target="_blank">aqui</a> e os projetos nesse <a href="" target="_blank">link</a>.</p>
