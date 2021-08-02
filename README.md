@@ -9,7 +9,8 @@ e aborda introdução ao desenvolvimento de software, front-end, back-end, ciên
   <li>HTML5</li>
   <li>CSS</li>
   <li>JavaScript ES6</li>
-  <li>FrameWorks - BootStrap</li>
+  <li>BootStrap</li>
+  <li>Bulma</li>
   <li>Integração com API</li>
   <li>Jest</li>
   <li>React</li>
@@ -21,9 +22,18 @@ e aborda introdução ao desenvolvimento de software, front-end, back-end, ciên
 </ul>
 <p>Atualmente estou no módulo de Back-end que tem foco em desenvolvimento com Node, e ao decorrer deste módulo verei:</p>
 <ul>
+  <li>Normalização e Modelagem de Banco de Dados</li>
   <li>MySQL</li>
   <li>MongoDB</li>
   <li>NodeJS</li>
+  <li>Express</li>
+  <li>NodeJS</li>
+  <li>Arquitetura Rest e Restful</li>
+  <li>Autenticação e Upload de Arquivos</li>
+  <li>Deployment</li>
+  <li>Arquitetura: SOLID</li>
+  <li>ORM</li>
+  <li>Sockets - Socket.io, TCP/UDP & NET</li>
 </ul>
 <!-- Meus interesses pessoais:
 - <b>Estudar:</b> Periodicamente escolho um assunto que me interessa e costumo me aprofundar bastante, o assunto da vez é investimentos no exterior.
