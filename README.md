@@ -1,33 +1,27 @@
 <H1 align="center">Olá! Tudo bem? Prazer, meu nome é Marcelo</H1>
 <p>Sou formado em Ciências Econômicas pela Newton Paiva. Tenho experiência como agente administrativo e economista, trabalhando como servidor público na Prefeitura de Belo Horizonte, onde atuei nas Secretarias de Assistencia Social e Planejamento Urbano.</p>
-<p>Após alguns anos atuando como economista, decidi realizar a transição de carreira e trabalhar como desenvolvedor de software. Atualmente estudo na Trybe, uma escola para pessoas que querem construir uma carreira de sucesso em tecnologia, com um programa que conta com mais de 1.500 horas de aulas presenciais e online
+<p>Após algum tempo atuando como economista, decidi realizar a transição de carreira e trabalhar como desenvolvedor de software. Atualmente estudo na Trybe, uma escola para pessoas que querem construir uma carreira de sucesso em tecnologia, com um programa que conta com mais de 1.500 horas de aulas presenciais e online
 e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.</p>
 <!-- <p>Você pode acessar meu site <a href="" target="_blank">aqui</a> e os projetos nesse <a href="" target="_blank">link</a>.</p> -->
-<p>No módulo de Front-End do curso, aprendemos os seguintes temas:</p>
+<p>Nos módulos de Fundamentos, Front-End e Back-End do curso, aprendemos vários temas, aqui segue alguns deles:</p>
 <ul>
   <li>Git e Github</li>
   <li>HTML5</li>
   <li>CSS</li>
   <li>JavaScript ES6</li>
-  <li>BootStrap</li>
-  <li>Bulma</li>
   <li>Integração com API</li>
-  <li>Jest</li>
+  <li>Jest - Testes Unitários</li>
   <li>React</li>
   <li>Testes automatizados com React Testing Library</li>
   <li>Metodologias ágeis</li>
   <li>Redux</li>
   <li>Context API</li>
   <li>React Hooks</li>
-</ul>
-<p>Recentemente encerrei o módulo de Back-end do curso onde, por meio de projetos e exercícios, aprendemos os seguintes temas:</p>
-<ul>
   <li>Normalização e Modelagem de Banco de Dados</li>
   <li>MySQL</li>
   <li>MongoDB</li>
   <li>NodeJS</li>
   <li>Express</li>
-  <li>NodeJS</li>
   <li>Arquitetura Rest e Restful</li>
   <li>Autenticação e Upload de Arquivos</li>
   <li>Deployment</li>
@@ -35,7 +29,7 @@ e aborda introdução ao desenvolvimento de software, front-end, back-end, ciên
   <li>ORM</li>
   <li>Sockets - Socket.io, TCP/UDP & NET</li>
 </ul>
-<p>Atualmente estou no módulo de Ciência da Computação, e ao decorrer deste módulo verei:</p>
+<p>Recentemente encerrei o ultimo módulo, de Ciência da Computação, onde por meio de projetos e exercícios, aprendemos os seguintes temas:</p>
 <ul>
   <li>Python</li>
   <li>Programação Orientada a Objetos e Padrões de Projeto</li>
@@ -49,6 +43,9 @@ e aborda introdução ao desenvolvimento de software, front-end, back-end, ciên
 <ul>
   <li>TypeScript</li>
   <li>TypeORM</li>
+  <li>Ruby</li>
+  <li>NestJS</li>
+  <li>Docker</li>
 </ul>
 <br />
 <p align="center">
